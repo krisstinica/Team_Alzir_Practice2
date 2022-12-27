@@ -6,5 +6,7 @@ public class Kristina {
         System.out.println("Kristina");
         System.out.println("29");
 
+        System.out.println("Hiiiii");
+
     }
 }
