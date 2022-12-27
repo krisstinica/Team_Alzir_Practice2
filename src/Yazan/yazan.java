@@ -14,5 +14,9 @@ public class yazan {
 
         System.out.println("Their name is Bunder and Luna");
 
+        System.out.println("Luna is a calico and she is 2 years old!");
+
+        System.out.println("Bunder is a siamese and he is also 2 years old!");
+
     }
 }
