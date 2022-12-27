@@ -7,6 +7,7 @@ public class Kristina {
         System.out.println("29");
 
         System.out.println("Hiiiii");
+        System.out.println("Helloo");
 
     }
 }
